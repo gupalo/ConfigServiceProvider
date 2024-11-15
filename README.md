@@ -12,15 +12,8 @@ for php, json, yaml, and toml.
 Put these lines to your composer.json:
 
     "require": {
-        "youssman/config-service-provider": "~2.0"
+        "gupalo/config-service-provider": "^2.0"
     },
-    ...
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/youssman/ConfigServiceProvider"
-        }
-    ]  
 
 ## Usage
 
